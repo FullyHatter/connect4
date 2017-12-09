@@ -1,2 +1,4 @@
 # connect4
-Connect4 Game Program
+This is console based Connect4 Game Program.
+
+Now in progress...
